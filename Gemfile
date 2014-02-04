@@ -44,4 +44,6 @@ end
 # Use debugger
 # gem 'debugger', group: [:development, :test]
 
-gem "paperclip"
+gem 'paperclip'
+gem 'sorcery', '>= 0.8.5'
+
